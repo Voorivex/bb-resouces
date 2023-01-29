@@ -439,6 +439,8 @@ Some resources for learning and updating your methodology.
 
 | Link |
 | :--- |
+| https://www.youtube.com/@LiveOverflow |
+| https://www.youtube.com/@xdavidhu |
 | https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g |
 | https://www.youtube.com/c/Nahamsec |
 | https://www.youtube.com/c/STOKfredrik |
