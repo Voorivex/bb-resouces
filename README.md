@@ -12,6 +12,30 @@ Some resources for learning and updating your methodology.
 
 | Link  | Tags |
 | :------------- | ------------- |
+| https://www.youtube.com/watch?v=HmDY7w8AbR4 | `Recon` |
+| https://www.youtube.com/watch?v=WU1sg9aih5k | `Recon` |
+| https://www.youtube.com/watch?v=YT5Zl2jW3wg | `Recon` |
+| https://www.youtube.com/watch?v=FZ_7xWZ03cQ | `Authentication` `Misc` |
+| https://www.youtube.com/watch?v=UyemBjyQ4qA | `SSRF` |
+| https://www.youtube.com/watch?v=sjvW79tjWoM | `Proxy` `Path Traversal` |
+| https://www.youtube.com/watch?v=cqM-MdPkaWo | `Misc` |
+| https://www.youtube.com/watch?v=rHxVVeM9R-M | `Request Smuggling` |
+| https://www.youtube.com/watch?v=3tpnuzFLU8g | `Request Smuggling` |
+| https://www.youtube.com/watch?v=KN8WF1q04no | `Request Smuggling` |
+| https://www.youtube.com/watch?v=q9rX5ty3fWI | `Misc` |
+| https://www.youtube.com/watch?v=upEMlJeU_Ik | `Request Smuggling` |
+| https://www.youtube.com/watch?v=0jM8dDVifaI | `Recon` |
+| https://www.youtube.com/watch?v=skbKjO8ahCI | `Recon` `Misc` |
+| https://www.youtube.com/watch?v=GeqVMOUugqY | `Prototype Pollution` `XSS` |
+| https://www.youtube.com/watch?v=YoXM4m1VEM0 | `Recon` |
+| https://www.youtube.com/watch?v=L0-aa60CZuI | `Recon` |
+| https://www.youtube.com/watch?v=_aST_z_qTYE | `SQL Injection` |
+| https://www.youtube.com/watch?v=ZV28JVK7afE | `Misc` |
+| https://www.youtube.com/watch?v=AbebbJ3cRLI | `Misc` |
+| https://www.youtube.com/watch?v=WTH6f0R7uzo | `Misc` |
+| https://www.youtube.com/watch?v=SBCpfYFs610 | `Misc` |
+| https://www.youtube.com/watch?v=5e_TpP6FKvU | `Misc` |
+| https://www.youtube.com/watch?v=UovnWjksp74 | `Misc` |
 
 ## Blogs to Follow
 
