@@ -6,7 +6,50 @@ Some resources for learning and updating your methodology.
 
 | Link  | Tags |
 | :------------- | ------------- |
-
+| https://ysamm.com/?p=763 | `XSS` `OAuth` |
+| https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36 | `PII` `IDOR` |
+| https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd | `Recon` `React` |
+| https://infosecwriteups.com/i-have-1-chance-to-hack-this-company-1044879f41a9 | `SSRF` |
+| https://samcurry.net/hacking-starbucks/ | `Proxy` `Path Traversal` |
+| https://whitton.io/articles/uber-turning-self-xss-into-good-xss/ | `XSS` |
+| https://www.youtube.com/watch?v=HnI0w156rtw | `Click Jacking` |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8 | `Recon` |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7 | `Recon` |
+| https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-3-3b987f24ab27 | `Recon` |
+| https://portswigger.net/research/how-to-turn-security-research-into-profit | `Misc` |
+| https://muhdaffa.medium.com/maximizing-the-potential-of-the-subfinder-562fc7e7e9e4 | `Recon` |
+| https://medium.com/@giedrius.saulenas/the-160-hours-bug-bounty-hunting-challenge-bug-hacking-48c2550461b7 | `Misc` |
+| https://github.com/httpvoid/writeups/blob/main/Hacking-Google-Drive-Integrations.md | `SSRF` |
+| https://medium.com/@G0ds0nXY/403-forbidden-bypass-leading-to-admin-endpoint-access-b696a36665ed | `Authorization Bypass` `403 Bypass` |
+| https://infosecwriteups.com/stored-xss-to-account-takeover-going-beyond-document-cookie-970e42362f43 | `XSS` |
+| https://ankitthku.medium.com/why-did-i-fail-at-bug-bounties-c621bf5bf779 | `Misc` |
+| https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/ | `Account Takeover` `OAuth` |
+| https://infosecwriteups.com/mail-server-misconfiguration-leads-to-sending-a-fax-from-anyones-account-on-hellofax-dropbox-bbp-aab3d97ab4e7 | `Logic` `Misc` |
+| https://medium.com/@720922/a-developers-nightmare-story-of-a-simple-idor-and-some-poor-fixes-worth-1125-5ead70b0a1de | `IDOR` |
+| https://medium.com/@ISecMax/%D1%81ookie-based-xss-exploitation-2300-bug-bounty-story-9bc532ffa564 | `XSS` |
+| https://medium.com/@numanturle/microsoft-teams-stored-xss-bypass-csp-8b4a7f5fccbf | `XSS` `CSP` |
+| https://security.lauritz-holtmann.de/advisories/flickr-account-takeover/ | `Account Takeover` |
+| https://medium.com/intigriti/how-i-got-your-phone-number-through-facebook-223b769cccf1 | `Logic` `Misc` |
+| https://engineering.atspotify.com/2013/06/creative-usernames/ | `Account Takeover` `Logic` `Misc` |
+| https://github.com/httpvoid/writeups/blob/main/Apple-RCE.md | `RCE` |
+| https://buer.haus/2020/06/14/nahamcon-trash-the-cache-write-up-web-1000/ | `Cache` `Misc` |
+| https://infosecwriteups.com/xxe-in-public-transport-ticketing-mobile-app-81ae245c01a1 | `XXE` |
+| https://infosecwriteups.com/how-did-i-become-a-doctor-using-xss-vulnerability-bce190fc114a | `XSS` |
+| https://infosecwriteups.com/how-i-scored-2k-bounty-via-an-idor-32eb2fa8aa1e | `IDOR` |
+| https://infosecwriteups.com/server-side-request-forgery-ssrf-8e0fa290f7e6 | `SSRF` |
+| https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183 | `Account Takeover` `Misc` |
+| https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63 | `SQL Injection` |
+| https://thehackerstuff.com/my-first-xss-finding-using-knoxss/ | `XSS` |
+| https://xhzeem.me/posts/SSRF-in-PDF-export-with-PhantomJs/read/ | `SSRF` |
+| https://zemnmez.medium.com/how-to-hack-apple-id-f3cc9b483a41 | `Recon` `PostMessage` `Misc` |
+| https://yasshk.medium.com/blind-ssrf-in-url-validator-93cbe7521c68 | `SSRF` |
+| https://coffeejunkie.me/Blind-XXE-Port-Scanning/ | `XXE` |
+| https://rodoassis.medium.com/on-ssrf-server-side-request-forgery-or-simple-stuff-rodolfo-found-part-i-4edf7ee75389 | `SSRF` |
+| https://blog.mindedsecurity.com/2018/10/from-path-traversal-to-source-code-in.html | `Path Traversal` |
+| https://shahjerry33.medium.com/cross-site-port-attack-a-strangers-call-c2467f93792f | `XSPA` `Misc` |
+| https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21 | `Recon` |
+| https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b | `Misc` |
+| https://infosecwriteups.com/why-this-simple-mistake-earned-a-5000-bug-bounty-from-reddit-d906cb46c60e | `BAC` `IDOR` `Misc` |
 
 ## Videos
 
@@ -36,6 +79,7 @@ Some resources for learning and updating your methodology.
 | https://www.youtube.com/watch?v=SBCpfYFs610 | `Misc` |
 | https://www.youtube.com/watch?v=5e_TpP6FKvU | `Misc` |
 | https://www.youtube.com/watch?v=UovnWjksp74 | `Misc` |
+
 
 ## Blogs to Follow
 
