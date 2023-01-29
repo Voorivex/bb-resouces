@@ -85,15 +85,38 @@ Some resources for learning and updating your methodology.
 
 ## Medium Tags to Follow
 
+| Link |
+| :--- |
+| https://medium.com/tag/application-security |
+| https://medium.com/tag/hacking |
+| https://medium.com/tag/infosec |
+| https://medium.com/tag/cybersecurity |
+| https://medium.com/tag/ctf |
+| https://medium.com/tag/penetration-testing |
+| https://medium.com/tag/writeup |
+| https://medium.com/tag/tryhackme |
+| https://medium.com/tag/vulnhub |
+| https://medium.com/tag/security |
+| https://medium.com/tag/bug-hunter |
+| https://medium.com/tag/bug-bounty |
+| https://medium.com/tag/info-sec-writeups |
+| https://medium.com/tag/hackthebox-writeup |
+| https://medium.com/tag/ethical-hacking |
+| https://medium.com/tag/api-security |
+| https://medium.com/tag/javascript |
+
+
 ## Discord Servers to Join
 
-- https://discord.gg/8UNzjTRGCc (nahamsec's server)
-- https://discord.gg/WrCTm8h (Hacker101's server)
-- https://discord.com/invite/TWr3Brs (Bugcrowd's Server)
-- https://discord.gg/cTCEq7eGXg (Intigriti's server)
-- https://discord.gg/defcon (DEF CON's server)
-- https://discord.gg/bugbounty (Bounty Hunter's server)
-- https://discord.gg/tRNUXNPMSV (InfoSec Community's server)
+| Name | Invitation Link |
+| :--- | :--- |
+| nahamsec | https://discord.gg/8UNzjTRGCc |
+| Hacker101 | https://discord.gg/WrCTm8h |
+| Bugcrowd | https://discord.com/invite/TWr3Brs |
+| Intigriti | https://discord.gg/cTCEq7eGXg |
+| DEF CON | https://discord.gg/defcon |
+| Bounty Hunter | https://discord.gg/bugbounty |
+| InfoSec Community | https://discord.gg/tRNUXNPMSV |
 
 ## People to Follow
 
