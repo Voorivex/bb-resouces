@@ -463,6 +463,34 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/itsafolic |
 | https://twitter.com/alp0x01 |
 | https://twitter.com/HolyBugx |
+| https://twitter.com/ctbbpodcast |
+| https://twitter.com/thebinarybot |
+| https://twitter.com/sudhanshur705 |
+| https://twitter.com/renniepak |
+| https://twitter.com/PhilippeDelteil |
+| https://twitter.com/iustinBB |
+| https://twitter.com/0xLupin |
+| https://twitter.com/lu3ky13 |
+| https://twitter.com/HackerOn2Wheels |
+| https://twitter.com/rene_kroka |
+| https://twitter.com/ReconOne_bk |
+| https://twitter.com/Fozisimi143 |
+| https://twitter.com/BountyOverflow |
+| https://twitter.com/realhacking_/ |
+| https://twitter.com/bxmbn |
+| https://twitter.com/0xmahmoudJo0 |
+| https://twitter.com/af4himi |
+| https://twitter.com/tabaahi_ |
+| https://twitter.com/AkashHamal0x01 |
+| https://twitter.com/zapstiko |
+| https://twitter.com/BurpSuiteTips |
+| https://twitter.com/Six2dez1 |
+| https://twitter.com/remonsec |
+| https://twitter.com/0xMstar |
+| https://twitter.com/Dinosn |
+| https://twitter.com/ADITYASHENDE17 |
+| https://twitter.com/dhakal__bibek |
+| https://twitter.com/TakSec |
 
 ### GitHub
 
