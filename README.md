@@ -88,6 +88,8 @@ Some resources for learning and updating your methodology.
 | https://www.youtube.com/watch?v=5e_TpP6FKvU | `Misc` |
 | https://www.youtube.com/watch?v=UovnWjksp74 | `Misc` |
 | https://www.youtube.com/watch?v=Eai_ZXXqafw | `Recon` |
+| https://www.youtube.com/watch?v=4d8uSwODcRY | `Recon` |
+| https://www.youtube.com/watch?v=NuhiWBGo684 | `Recon` |
 
 
 ## Blogs to Follow
