@@ -50,6 +50,14 @@ Some resources for learning and updating your methodology.
 | https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21 | `Recon` |
 | https://medium.com/@shakti.gtp/an-out-of-scope-domain-leads-to-a-critical-bug-1500-f228d2c7db4b | `Misc` |
 | https://infosecwriteups.com/why-this-simple-mistake-earned-a-5000-bug-bounty-from-reddit-d906cb46c60e | `BAC` `IDOR` `Misc` |
+| https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e | `Recon` |
+| https://marxchryz.medium.com/how-i-found-multiple-xss-in-hidden-legacy-pages-a57a25d8ff1f | `XSS` `Recon` |
+| https://infosecwriteups.com/how-did-i-earned-6000-from-tokens-and-scopes-in-one-day-12f95c6bf8aa | `Recon` |
+| https://caesarevan23.medium.com/ssrf-external-service-interaction-for-find-real-ip-cloudflare-and-leads-to-sql-injection-c22c02243299 | `Recon` `SSRF` `SQL Injection` |
+| https://jinone.github.io/bugbounty-a-dom-xss/ | `XSS` `Recon` |
+| https://medium.com/pentesternepal/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9 | `Account Takeover` `Recon` |
+| https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf | `XSS` |
+| https://infosecwriteups.com/server-side-request-forgery-ssrf-testing-b9dfe57cca35 | `SSRF` |
 
 ## Videos
 
@@ -79,12 +87,14 @@ Some resources for learning and updating your methodology.
 | https://www.youtube.com/watch?v=SBCpfYFs610 | `Misc` |
 | https://www.youtube.com/watch?v=5e_TpP6FKvU | `Misc` |
 | https://www.youtube.com/watch?v=UovnWjksp74 | `Misc` |
+| https://www.youtube.com/watch?v=Eai_ZXXqafw | `Recon` |
 
 
 ## Blogs to Follow
 
 | Link |
 | :--- |
+| https://pentester.land/list-of-bug-bounty-writeups.html |
 | https://ysamm.com |
 | https://xhzeem.me/posts/ |
 | https://samcurry.net/ |
@@ -491,6 +501,7 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/ADITYASHENDE17 |
 | https://twitter.com/dhakal__bibek |
 | https://twitter.com/TakSec |
+| https://twitter.com/httpvoid0x2f |
 
 ### GitHub
 
