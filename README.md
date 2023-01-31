@@ -58,6 +58,24 @@ Some resources for learning and updating your methodology.
 | https://medium.com/pentesternepal/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9 | `Account Takeover` `Recon` |
 | https://medium.com/@gguzelkokar.mdbf15/xss-via-account-takeover-in-e-signature-feature-worth-2500-435f3f8325bf | `XSS` |
 | https://infosecwriteups.com/server-side-request-forgery-ssrf-testing-b9dfe57cca35 | `SSRF` |
+| https://jakearchibald.com/2021/cors/ | `CORS Misconfiguration` |
+| https://medium.com/@shakti.gtp/if-its-a-feature-let-s-abuse-it-for-750-19cfb9848d4b | `Logic` `Misc` |
+| https://haiderm.com/how-i-was-able-to-delete-13k-microsoft-translator-projects/ | `CSRF` |
+| https://psfauzi.medium.com/how-i-get-1350-from-idor-just-less-1-hours-7496bab1a914 | `IDOR` |
+| https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645 | `XSS` |
+| https://medium.com/@mohameddhanish98/a-story-of-dom-xss-852b6ed3bb5f | `XSS` |
+| https://notifybugme.medium.com/exploiting-s3-bucket-with-path-folder-to-access-pii-info-of-a-bank-91d8563cb45 | `AWS` `Misc` `Recon` |
+| https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea | `Account Takeover` |
+| https://infosecwriteups.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4 | `Account Takeover` |
+| https://amakki.me/how-i-made-15k-from-remote-code-execution-vulnerability-2e1b14b3902a | `RCE` `Recon` |
+| https://infosecwriteups.com/how-i-scored-1k-bounty-using-waybackurls-717d9673ca52 | `Recon` |
+| https://akashhamal0x01.medium.com/design-flaw-a-tale-of-permanent-dos-a9ef05181083 | `Logic` `Misc` |
+| https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee | `XSS` |
+| https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8 | `Auth Bypass` `Misc` |
+| https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c | `Auth Bypass` |
+| https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e | `IDOR` |
+| https://infosecwriteups.com/bypass-authentication-1bfab09332fe | `Auth Bypass` |
+| https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25 | `Recon` |
 
 ## Videos
 
