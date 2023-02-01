@@ -194,7 +194,6 @@ Some resources for learning and updating your methodology.
 | https://medium.com/tag/writeup |
 | https://medium.com/tag/tryhackme |
 | https://medium.com/tag/vulnhub |
-| https://medium.com/tag/security |
 | https://medium.com/tag/bug-hunter |
 | https://medium.com/tag/bug-bounty |
 | https://medium.com/tag/info-sec-writeups |
