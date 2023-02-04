@@ -528,6 +528,7 @@ Some resources for learning and updating your methodology.
 | https://zoidsec.medium.com/ |
 | https://zonduu.medium.com/ |
 | https://zseano.medium.com/ |
+| https://www.bugbountyhunting.com/ |
 
 ## Medium Tags to Follow
 
