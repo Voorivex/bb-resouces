@@ -114,6 +114,7 @@ Some resources for learning and updating your methodology.
 
 | Link |
 | :--- |
+| https://blog.deesee.xyz/ |
 | https://ysamm.com |
 | https://samcurry.net/ |
 | https://bugs.xdavidhu.me/ |
