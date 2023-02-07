@@ -108,7 +108,7 @@ Some resources for learning and updating your methodology.
 | https://www.youtube.com/watch?v=Eai_ZXXqafw | `Recon` |
 | https://www.youtube.com/watch?v=4d8uSwODcRY | `Recon` |
 | https://www.youtube.com/watch?v=NuhiWBGo684 | `Recon` |
-
+| https://www.youtube.com/watch?v=A6zQV9e2S1M | `Recon` |
 
 ## Blogs to Follow
 
