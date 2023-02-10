@@ -73,7 +73,6 @@ Some resources for learning and updating your methodology.
 | https://prashantbhatkal2000.medium.com/svg-based-stored-xss-ee6e9b240dee | `XSS` |
 | https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8 | `Auth Bypass` `Misc` |
 | https://medium.com/@aravindb26/my-first-apple-bug-and-my-first-writeup-8a833e8e953c | `Auth Bypass` |
-| https://medium.com/@gonzalocarrascosec/fuzzing-idor-admin-takeover-5343bb8f436e | `IDOR` |
 | https://infosecwriteups.com/bypass-authentication-1bfab09332fe | `Auth Bypass` |
 | https://pawanchhabria.medium.com/how-i-accessed-the-sensitive-document-which-i-had-already-deleted-adbc1e6fbb25 | `Recon` |
 
@@ -119,10 +118,8 @@ Some resources for learning and updating your methodology.
 | https://samcurry.net/ |
 | https://bugs.xdavidhu.me/ |
 | https://spaceraccoon.dev/ |
-| https://spaceraccoon.dev/.xml |
 | https://blog.assetnote.io/ |
 | https://omespino.com/ |
-| https://omespino.com |
 | https://blog.yeswehack.com/ |
 | https://blog.intigriti.com |
 | https://ajxchapman.github.io/ |
@@ -132,7 +129,6 @@ Some resources for learning and updating your methodology.
 | https://lab.wallarm.com |
 | http://securityflow.io |
 | https://buer.haus/ |
-| https://buer.haus// |
 | https://techblog.mediaservice.net |
 | https://blog.zsec.uk/ |
 | https://itm4n.github.io |
@@ -280,23 +276,19 @@ Some resources for learning and updating your methodology.
 | https://medium.com/@Wh11teW0lf/ |
 | https://medium.com/@YumiSec/ |
 | https://medium.com/@ZishanAdThandar/ |
-| https://medium.com//@302Found |
-| https://medium.com//@cappriciosec |
-| https://medium.com//@newp_th |
-| https://medium.com//@pdelteil |
-| https://medium.com//@tomnomnom |
-| https://medium.com//intigriti |
+| https://medium.com/@cappriciosec |
+| https://medium.com/@newp_th |
+| https://medium.com/@pdelteil |
+| https://medium.com/@tomnomnom |
+| https://medium.com/intigriti |
 | https://medium.com//towards-aws |
 | https://regilero.github.io |
 | https://portswigger.net/research |
 | https://0xpatrik.com/ |
-| https://0xpatrik.com/rss/ |
 | https://blog.it-securityguard.com/ |
 | https://pwning.re/ |
 | https://labs.detectify.com |
-| https://labs.detectify.com/ |
 | https://blog.appsecco.com |
-| https://blog.appsecco.com/ |
 | https://ahussam.me/ |
 | https://www.arneswinnen.net/ |
 | https://tisiphone.net/ |
@@ -304,7 +296,6 @@ Some resources for learning and updating your methodology.
 | https://seanmelia.wordpress.com/ |
 | https://gracefulsecurity.com |
 | https://klikki.fi |
-| http://philippeharewood.com |
 | https://www.jonbottarini.com |
 | https://shubs.io |
 | https://www.infosecmatter.com/bug-bounty-tips |
@@ -599,7 +590,6 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/YourNextBugTip |
 | https://twitter.com/fransrosen |
 | https://twitter.com/avlidienbrunn |
-| https://twitter.com/thedawgyg |
 | https://twitter.com/smiegles |
 | https://twitter.com/jobertabma |
 | https://twitter.com/stokfredrik |
@@ -747,7 +737,6 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/r0bre |
 | https://twitter.com/r0hack |
 | https://twitter.com/r0x33d |
-| https://twitter.com/Regala_/ |
 | https://twitter.com/restr1ct3d |
 | https://twitter.com/rez0__/ |
 | https://twitter.com/Rhynorater |
@@ -793,36 +782,29 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/yaworsk |
 | https://twitter.com/yip404 |
 | https://twitter.com/zeroxyele |
-| https://twitter.com/Codecancare |
 | https://twitter.com/d00xing |
 | https://twitter.com/m0chan98 |
 | https://twitter.com/_jensec |
 | https://twitter.com/naglinagli |
 | https://twitter.com/infosec_au |
 | https://twitter.com/jonathandata1 |
-| https://twitter.com/0xd0m7 |
 | https://twitter.com/sheikhrishad0 |
 | https://twitter.com/melardev |
 | https://twitter.com/zonduu1 |
 | https://twitter.com/_godiego__/ |
 | https://twitter.com/LamScun |
 | https://twitter.com/hrithikbot |
-| https://twitter.com/alicanact60 |
 | https://twitter.com/@harris0ft |
 | https://twitter.com/gui_scombatti |
-| https://twitter.com/santi_lopezz99 |
 | https://twitter.com/proabiral |
 | https://twitter.com/xhzeem |
-| https://twitter.com/Rhynorater |
 | https://twitter.com/regala_/ |
 | https://twitter.com/adrianovalle |
 | https://twitter.com/Sachin_kumar174 |
 | https://twitter.com/prakashpanta268 |
-| https://twitter.com/shailesh4594 |
 | https://twitter.com/niemand_sec |
 | https://twitter.com/amanmahendra_/ |
 | https://twitter.com/Geva_7 |
-| https://twitter.com/hacker_/ |
 | https://twitter.com/djurado9 |
 | https://twitter.com/iangcarroll |
 | https://twitter.com/_Base_64 |
@@ -846,7 +828,6 @@ Some resources for learning and updating your methodology.
 | https://twitter.com/0nlymohammed |
 | https://twitter.com/jihk |
 | https://twitter.com/engi_arp |
-| https://twitter.com/hgreal1 |
 | https://twitter.com/0xDexter0us |
 | https://twitter.com/n1m0_/ |
 | https://twitter.com/hipotermia |
