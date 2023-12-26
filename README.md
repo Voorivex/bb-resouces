@@ -252,7 +252,7 @@ Some resources for learning and updating your methodology.
 | https://medium.com/@JubaBaghdad/ |
 | https://medium.com/@Kntjrld/ |
 | https://medium.com/@LogicalHunter/ |
-| https://medium.com/@M0X0101/ |
+| https://medium.com/@AlQa3Qa3_M0X0101/ |
 | https://medium.com/@Mr.Daman.Singh/ |
 | https://medium.com/@Mthirup/ |
 | https://medium.com/@N0_M3ga_Hacks/ |
